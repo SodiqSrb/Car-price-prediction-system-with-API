@@ -1,6 +1,6 @@
 # Car-price-prediction-system-with-API
 Hi everyone i’m : 
-Furkan Kızılay
+Abdulsemiu Sodiq
 
 In this article, we will develop an end-to-end machine learning project with 11 steps in our own locale. After that, we will create an API with FastAPI, after creating the interface with the help of Streamlit, we will dockerize our project.
 
